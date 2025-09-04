@@ -9,7 +9,7 @@ ext_modules = [
     Extension("helper", ["pfibs/helper.pyx"])
 ]
 setup(name ="pfibs",
-      version="2018.1.0_0.5",
+      version="2018.1.0.5",
       author="Jeffery Allen, Justin Chang, Innokentiy Protasov",
       author_email="jallen@nrel.gov",
       url="https://github.com/NREL/pfibs",
